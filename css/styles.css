@@ -3,7 +3,8 @@ body {
 }
 
 img.main {
-  width: 100%;
+  width: 300px;
+  float: left;
 
 }
 
@@ -11,6 +12,11 @@ img.main {
 
 }
 
+/* .column1 {
+
+  float: left;
+  background-color: red;
+} */
 .column {
   width: 20%;
   float: left;
