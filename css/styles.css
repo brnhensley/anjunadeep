@@ -3,9 +3,9 @@ body {
 }
 
 img.main {
-  width: 300px;
-  float: left;
-
+  width: 10%;
+  float: left
+  padding: 2%;
 }
 
 .content {
@@ -25,7 +25,10 @@ img.main {
 
 .sidebar {
   float: right;
-  background-color: lightblue;
   height: 200px;
+  background-color: yellow;
   width: 50%;
+  border: 2px solid green;
+  padding:10px;
+  margin:20px;
 }
