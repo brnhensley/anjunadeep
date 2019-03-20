@@ -1,0 +1,25 @@
+body {
+  background-color: lightpink;
+}
+
+img.main {
+  width: 100%;
+
+}
+
+.content {
+
+}
+
+.column {
+  width: 20%;
+  float: left;
+  background-color: red;
+}
+
+.sidebar {
+  float: right;
+  background-color: lightblue;
+  height: 200px;
+  width: 50%;
+}
